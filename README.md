@@ -34,9 +34,3 @@ Este projeto é um sistema simples para gerenciar dados de trabalhadores, contra
 ### Resultado
 
 ![Resultado](src/images/Resultado.JPG)
-
----
-
-### Contato
-
-Dúvidas ou sugestões? Entre em contato!
